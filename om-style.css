@@ -1,0 +1,227 @@
+body {
+background-color: #eaffff;
+font-family: sans-serif, Arial;
+
+h1 {
+text-align:center;
+
+} }
+
+
+.unknown {
+padding: 32px;
+background : black;
+color: white;
+font-size: larger 10px;
+border: double slategrey;
+text-transform: uppercase;
+border-radius: 20px;
+border-top-width: 15px;
+border-bottom-width: 15px;
+border-right-style: double;
+border-left-style: double;
+border-right-width: 10px;
+border-left-width: 10px;
+
+}
+
+
+button {
+font-size: large;
+border: 2px solid black;
+
+}
+
+
+.subscribe-btn {
+background-color: Red;
+    color: white;
+    font-size: large;
+    text-align: center;
+    border-radius: 20px;
+    border:solid black;
+  
+}
+
+
+.coustom-btn {
+background-color:#ffeaea;
+color:black;
+font-size:large;
+padding: 10px;
+border-radius: 10px;
+border: double black;
+
+}
+
+
+.support {
+background: khaki;
+border: dotted;
+border-right-width: 5px;
+border-left-width: 5px;
+text-align: center;
+
+}
+
+
+#thanks {
+background-color:#fff4d5;
+color:black;
+border-radius:20px;
+border: 5px solid;
+
+}
+
+
+footer {
+background:#aaffb5;
+Font-size:large;
+border-radius:20px;
+padding:10px 20px 10px 10px;
+color:black;
+text-align:center;
+margin-top:20px;
+border:5px solid;
+text-transform: uppercase;
+
+}
+
+
+.img {
+height:80%;
+width:auto;
+text-align:center;
+background:#ffd5bf;
+border: solid;
+border-radius:20px;
+
+}
+
+
+#home {
+background:#575f5fed;
+color: white;
+padding: 20px;
+margin:20px;
+font: large;
+border-radius: 50px;
+border:5px solid black;
+
+}
+
+
+#welcome {
+background:#aaffb5;
+border:5px solid black;
+border-radius:20px;
+text-transform :capitalize;
+
+
+}
+
+
+.about {
+margin:10px;
+padding:20px;
+border: groove #80acff 20px;
+background:#ffeaff;
+
+b{
+text-decoration: underline dotted salmon;
+
+} }
+
+
+.about2 {
+margin:10px;
+padding: 20px;
+border: groove #8098ff 20px;
+background: #ffeaff;
+
+b {
+text-decoration: underline dotted salmon;
+
+} }
+
+
+.about3 {
+margin:10px;
+padding: 20px;
+border:groove #80acff 20px;
+background: #ffeaff;
+
+b {
+text-decoration: underline dotted salmon;
+
+} }
+
+
+.about4 {
+margin:10px;
+padding: 15px ;
+border: groove #6a8dff 20px;
+background: #ffeaff;
+list-style-type: disc;
+text-align: center;
+text-transform: translate(25px , 10px);
+
+b {
+text-decoration: underline dotted salmon;
+
+} }
+
+
+label {
+font: large;
+color: purple;
+margin: 10px;
+
+} 
+    
+    
+input {
+border: dashed maroon;
+padding : 10px 5px 10px 5px ;
+background: white;
+color: ff00dc;
+border-bottom-style: solid;
+border-top-style: solid;
+
+}
+
+
+textarea {
+border : 5px dotted olive ;
+background: White ;
+border-bottom-style: solid;
+border-top-style: solid;
+
+}
+
+
+#audio {
+margin-left: 50px;
+margin-top: 0px;
+margin-bottom: 20px;
+background: black;
+border-radius: 10px;
+padding: 10px;
+
+}
+
+
+.song {
+text-align: center;
+text-overflow: clip;
+background: wheat;
+border-radius: 10px;
+font-size: larger; 
+border: double brown;
+
+}
+
+
+
+
+            
