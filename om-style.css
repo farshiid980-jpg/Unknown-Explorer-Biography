@@ -34,15 +34,25 @@ border: 2px solid black;
 
 
 .subscribe-btn {
-background-color: Red;
+background-color: maroon;
     color: white;
     font-size: large;
     text-align: center;
     border-radius: 20px;
     border:solid black;
+    cursor: pointer;
+    transition: background-color 0.5s ease , transform 0.5s ease;
   
 }
 
+
+.subscribe-btn:hover{
+background: red;
+color: white;
+border:solid black;
+transform: scale(1.10);
+
+}
 
 .coustom-btn {
 background-color:#ffeaea;
@@ -50,7 +60,38 @@ color:black;
 font-size:large;
 padding: 10px;
 border-radius: 10px;
-border: double black;
+border:5px double black;
+cursor: pointer;
+transition: background 0.5s ease, transform 0.5s ease;
+
+}
+
+
+.coustom-btn:hover {
+background: pink;
+transform: scale(1.05);
+
+}
+
+
+.click-btn {
+background-color:#575f5fed;
+color: White;
+font-size:large; 
+padding:10px;
+margin-bottom:5px;
+border-radius:50px;
+cursor: pointer;
+transition: background 0.5s ease,transform 0.5s ease ;
+
+}
+
+
+.click-btn:hover {
+background: black;
+color: white ;
+transform: scale(1.05);
+
 
 }
 
@@ -107,6 +148,17 @@ margin:20px;
 font: large;
 border-radius: 50px;
 border:5px solid black;
+cursor: pointer;
+transition: background 0.5s ease,transform 0.5s ease,border 0.5s ease;
+
+}
+
+
+#home:hover {
+background: black;
+color: white;
+border: 5px solid slategray;
+transform: scale(1.05);
 
 }
 
